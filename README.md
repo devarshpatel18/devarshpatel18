@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devarsh Patel</h1>
+<h1 align="center">Hi 👋, I'm Devarsh Rupareliya</h1>
 <h3 align="center">MSc IT Student | AI & ML Enthusiast | Data Science</h3>
 
 <p align="center">

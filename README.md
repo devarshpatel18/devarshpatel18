@@ -12,7 +12,7 @@
 - 🔭 Currently working on **Deep Learning & NLP Projects**
 - 🌱 Learning **Transformers, LLMs, and Generative AI**
 - 💡 Interested in **ML, Data Science, Computer Vision, NLP**
-- 📫 Reach me at: **your-devarshrupareliya@gmail.com**
+- 📫 Reach me at: **devarshrupareliya@gmail.com**
 
 ---
 
@@ -86,7 +86,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [MNIST Digit Recognition](https://github.com/devarshpatel18) | 99.41% accuracy CNN model | TensorFlow, Keras |
+| [MNIST Digit Recognition]([https://github.com/devarshpatel18/mnist-digit-recognition-tensorflow]) | 99.41% accuracy CNN model | TensorFlow, Keras |
 | More coming soon... | | |
 
 ---

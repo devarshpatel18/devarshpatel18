@@ -1,24 +1,110 @@
-# 💫 About Me:
-Hi 👋, I'm Devarsh Patel<br>🤖 AI & ML Enthusiast | Data Science | Deep Learning<br><br>🎓 MSc IT @ GLS University, Ahmedabad — Specializing in Data Analytics & AI<br>🧠 Deep Learning Roadmap: CNNs · RNNs/LSTMs · NLP · Transformers · Generative AI<br>🏆 MNIST Handwritten Digit Recognition — 99.41% Accuracy (TensorFlow + Keras)<br>💼 Internship @ InfoLabz — Built a full Turf Booking Management System<br>📜 Tata GenAI Powered Data Analytics Simulation — Forage (2026)<br>🚀 Currently exploring: LLM Fine-tuning · Full-Stack AI Deployment<br>🎯 Goal: Build impactful AI solutions that solve real-world problems<br>📍 Ahmedabad, India<br><br>💬 "Learning by building — one model at a time."<br><br>📫 Connect: linkedin.com/in/devarsh-patel-5532b9243<br>🐙 GitHub: github.com/devarshpatel18
+<h1 align="center">Hi 👋, I'm Devarsh Patel</h1>
+<h3 align="center">MSc IT Student | AI & ML Enthusiast | Data Science</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GrQJDtEU2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devarsh_patel_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/devarsh-patel-5532b9243)][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devarshrupareliya07@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devarshpatel18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=devarshpatel18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devarshpatel18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devarshpatel18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7971E&center=true&width=435&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Data+Science+%7C+AI+%7C+NLP" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=devarshpatel18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+- 🎓 MSc IT at **GLS University, Ahmedabad** (2025–2027)
+- 🔭 Currently working on **Deep Learning & NLP Projects**
+- 🌱 Learning **Transformers, LLMs, and Generative AI**
+- 💡 Interested in **ML, Data Science, Computer Vision, NLP**
+- 📫 Reach me at: **your-email@gmail.com**
+
+---
+
+### 🛠️ Skills & Tools
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+
+
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devarshpatel18&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devarshpatel18&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarshpatel18&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [MNIST Digit Recognition](https://github.com/devarshpatel18) | 99.41% accuracy CNN model | TensorFlow, Keras |
+| More coming soon... | | |
+
+---
+
+### 🏆 Certifications
+- 📜 Tata GenAI Powered Data Analytics — Forage (Jan 2026)
+
+---
+
+### 🔗 Connect With Me
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/devarsh-patel-5532b9243)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/devarshpatel18)

@@ -12,7 +12,7 @@
 - 🔭 Currently working on **Deep Learning & NLP Projects**
 - 🌱 Learning **Transformers, LLMs, and Generative AI**
 - 💡 Interested in **ML, Data Science, Computer Vision, NLP**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **your-devarshrupareliya@gmail.com**
 
 ---
 
